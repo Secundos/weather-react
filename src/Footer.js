@@ -16,7 +16,7 @@ export default function Footer() {
       </a>{" "}
       and is open-soursed{" "}
       <a
-        href="https://github.com/Secundos/weather-app-project"
+        href="https://github.com/Secundos/weather-react"
         target="_blank"
         rel="noreferrer"
       >
@@ -25,7 +25,7 @@ export default function Footer() {
       </a>{" "}
       and hosted{" "}
       <a
-        href="https://silly-sinoussi-be476f.netlify.app/?#"
+        href="https://determined-bhabha-315dfa.netlify.app/"
         target="_blank"
         rel="noreferrer"
       >
