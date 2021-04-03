@@ -1,0 +1,36 @@
+h1 {
+  padding: 20px;
+  font-family: "Merriweather", serif;
+  position: relative;
+  padding: 5px;
+  top: 40px;
+  left: 20px;
+  font-weight: bold;
+}
+#date {
+  position: relative;
+  font-size: 15px;
+  font-family: "Merriweather", serif;
+  padding: 5px;
+  margin: 5px;
+  left: 20px;
+  top: 20px;
+}
+
+.current-temperature {
+  font-size: 15mm;
+  position: relative;
+  left: 20px;
+}
+.weatheremoji {
+  position: relative;
+}
+.current-temperature {
+  position: relative;
+}
+
+.units {
+  position: relative;
+  left: 20px;
+  top: 15px;
+}
